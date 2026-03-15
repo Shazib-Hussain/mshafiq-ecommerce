@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '1234567890'; // Replace with your actual WhatsApp number
+const WHATSAPP_NUMBER = '923214894332'; // Your WhatsApp number (with country code, no + or spaces)
 
 export function getWhatsAppLink(perfumeName) {
   const message = `Hello, I want to order this perfume: ${perfumeName}`;
